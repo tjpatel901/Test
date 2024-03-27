@@ -1,3 +1,4 @@
+#!/bin/bash
 # - Encrypted By Abood ..
 # - Telegram https://t.me/i8iii0 ..
 
